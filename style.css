@@ -1,0 +1,26 @@
+.main
+{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0px auto;
+
+}
+.result
+{
+width: 195px;
+background-color: grey;
+color: white;
+
+}
+.btn
+{
+    width: 47px;
+    margin-top: 2px;
+    background-color: grey;
+}
+.btnclear
+{
+    width: 98px;
+    margin-top: 2px;
+    background-color: grey;
+}
